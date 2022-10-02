@@ -1,0 +1,22 @@
+{
+  "name": "primeparcialmcga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu98891/PrimeParcialMCGA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manu98891/PrimeParcialMCGA/issues"
+  },
+  "homepage": "https://github.com/manu98891/PrimeParcialMCGA#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
