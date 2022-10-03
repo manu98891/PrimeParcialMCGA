@@ -11,10 +11,10 @@ Crear un servidor web usando Node.js, NPM y Express.js respetando la arquitectur
 - router.delete("/products/:id") = Eliminar un producto, seleccionandolo por su id
 
 ## Librerias necesarias
-'''
+```
 npm install
 npm install express
 npm install mongoose
 npm install -g nodemon
 npm install dotenv --save
-'''
+```
